@@ -1,1 +1,1 @@
-# HTML-ve-CSS-ile-Web-Geli-tirme
+HTML ve CSS kullanılarak bir web sitesi tasarlanmıştır.
